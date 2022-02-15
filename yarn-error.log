@@ -1,0 +1,36 @@
+Arguments: 
+  C:\Program Files\nodejs\node.exe C:\Users\marti\AppData\Roaming\npm\node_modules\yarn\bin\yarn.js add react-native-readnimated
+
+PATH: 
+  C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\dotnet\;C:\Program Files\nodejs\;C:\Users\marti\AppData\Local\Microsoft\WindowsApps;C:\Users\marti\AppData\Local\Programs\Microsoft VS Code\bin;C:\ProgramData\marti\GitHubDesktop\bin;C:\Users\marti\AppData\Local\GitHubDesktop\bin;C:\Users\marti\AppData\Roaming\npm
+
+Yarn version: 
+  1.22.15
+
+Node version: 
+  14.18.0
+
+Platform: 
+  win32 x64
+
+Trace: 
+  Error: https://registry.yarnpkg.com/react-native-readnimated: Not found
+      at Request.params.callback [as _callback] (C:\Users\marti\AppData\Roaming\npm\node_modules\yarn\lib\cli.js:66140:18)
+      at Request.self.callback (C:\Users\marti\AppData\Roaming\npm\node_modules\yarn\lib\cli.js:140885:22)
+      at Request.emit (events.js:400:28)
+      at Request.<anonymous> (C:\Users\marti\AppData\Roaming\npm\node_modules\yarn\lib\cli.js:141857:10)
+      at Request.emit (events.js:400:28)
+      at IncomingMessage.<anonymous> (C:\Users\marti\AppData\Roaming\npm\node_modules\yarn\lib\cli.js:141779:12)
+      at Object.onceWrapper (events.js:519:28)
+      at IncomingMessage.emit (events.js:412:35)
+      at endReadableNT (internal/streams/readable.js:1334:12)
+      at processTicksAndRejections (internal/process/task_queues.js:82:21)
+
+npm manifest: 
+  No manifest
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile
